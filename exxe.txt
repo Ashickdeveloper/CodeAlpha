@@ -1,0 +1,90 @@
+<!DOCTYPE html>  <!--hi-->
+<html>
+    <head>
+        <title>4prgm</title>
+        <link rel="icon"  type="image" href="c:\Users\Admin\Pictures\searching-engine-optimizing-seo-browsing-concept.jpg">
+
+    </head>
+
+    <body bgcolor="white" style color="blue">
+        <center>
+        <h1 style="color:green; font-family:Verdana, Geneva, Tahoma, sans-serif; 
+        text-align:center;"> my website</h1>
+        <img src="c:\Users\Admin\Pictures\unnamed (6).jpg"
+         width="400px" alt="owner of imge"
+         style="border:3px dashed red"
+         title="ashick(ash)">
+        <br>
+        <hr>
+        <pre>I am <abbr  title="ash">mohammed ashick</abbr> thank you</pre>
+        <em><mark>I am <q>mohammed ashick</q> thank you</mark></em>
+        <p style="font size:30%"><i>i am captipn america thank you vey much</i></p>
+        <a  href="file:///C:/Users/Admin/Desktop/vikram/exes.html" target ="_blank">
+            <img src="c:\Users\Admin\Pictures\employee-working-marketing-setting.jpg" height="10">
+             Click here</a>
+             <br>
+             <pre></pre>
+             <a href="mailto:ashick.cleverso25@mail.com">email</a>
+        <br>
+        <pre></pre>
+        <strong> this  <!--is--> called bold</strong>
+        <br>
+        <small>vare vare</small>
+        <br>
+        <mark>booyah</mark>
+        <br>
+        <center>
+        <h4>do or does</h4>
+        <div>
+        <ol type="a">
+            <li>eee</li>
+            <li>eee</li>
+        </ol>
+        <ul>
+            <li>trp</li>
+            <li> ort</li>
+        </ul>
+        </div>
+        </center>
+
+
+        <ins>wake up</ins>
+        <p>a<sup>2</sup>+b<sup>2</sup>+2ab</p>
+        <p>a<sub>2</sub>+b<sub>2</sub>+2ab</p>
+
+        </center>
+        
+        <table  width="30px" style="border:2px dashed chartreuse">
+            <caption>my details</caption>
+            <thead style="text-align:left;">
+                <tr height="20">
+                 
+                    <th colspan="2" width="10px">name</th>
+                    <th>dept</th>
+                </tr>
+                
+
+            </thead>
+            <tbody>
+                <tr>
+                    <td >1</td>
+                    <td>ash</td>
+                    <td rowspan="2">cs</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>jos</td>
+                   
+                </tr>
+
+            </tbody>
+        </table>
+
+      
+        
+
+
+    </body>
+</html>
+
+
