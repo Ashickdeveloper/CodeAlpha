@@ -1,0 +1,49 @@
+C:\Users\Admin\Desktop\vikram\simple.html
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>onnu illa</title>
+        <link rel="icon" href="image/searching-engine-optimizing-seo-browsing-concept.html.jpg"
+
+    </head>
+   
+    <body bgcolor=" lightblue" id="ash" >
+        <h1>mudiyala</h1>
+        
+        <p>new<mark> one </mark> </p>
+        <strong>i am bit </strong>
+        <br>
+        <center>
+        <button onclick="document.location=''">my website</button>
+        </center>
+        <hr>
+        <a href="#ash">ash</a>
+        <fieldset>
+            <center>
+            <legend>signup</legend>
+            </center>
+            <pre></pre>
+        <form>
+            <label>name</label>
+            <input type="name"></input>
+            <br><br>
+            <label>dob</label>
+            <input type="date">
+            <br><br>
+            <label>time></label>
+            <input type="time" >
+             <br><br>
+             <label>gender</label>
+             <input type="radio" name="gender">
+             <label>male</label>
+             <input type="radio" name="gender">
+             <label>female</label>
+             <br>
+            <input type="checkbox">
+            <label>terms and condtions</label>
+        </form>
+    </fieldset>
+    </body>
+</html>
